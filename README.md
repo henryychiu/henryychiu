@@ -2,13 +2,13 @@
 
 I'm Henry, a freshman at UC Berkeley studying Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 23henrychiu@gmail.com or henrychiu.me
+- 🔭 I’m currently building and desiging websites at Web Development at Berkeley
+- 💻 My favorite stack right now is MERN
+- 🌱 I’m currently learning about mobile development with React Native
+- 💬 Ask me about the struggle of modern tech startups
+- 📫 How to reach me: 23henrychiu@gmail.com
 - 😄 Pronouns: He/Him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I run for fun!
 
 **Links**
 - [Portfolio Website](http://henrychiu.me/) - My creative work!
