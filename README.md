@@ -11,5 +11,5 @@ I'm Henry, a freshman at UC Berkeley studying Computer Science.
 - ⚡ Fun fact: ...
 
 **Links**
-- [Portfolio Website](https:// henrychiu.me) - My creative work!
+- [Portfolio Website](http://henrychiu.me/) - My creative work!
 - [Linkedin](https://www.linkedin.com/in/henryychiu/) - Learn more about me!
