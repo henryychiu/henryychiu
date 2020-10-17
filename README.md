@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Henry, a freshman at UC Berkeley studying Computer Science.
+I'm Henry, a freshman at UC Berkeley studying Computer Science. Just trying to make some good changes while I'm here.
 
 - 🔭 I’m currently building and desiging websites at Web Development at Berkeley
 - 💻 My favorite stack right now is MERN
