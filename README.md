@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm Henry, a freshman at UC Berkeley studying Computer Science. Just trying to make some good changes while I'm here.
+I'm Henry. Currently studying Computer Science at Berkeley and I'm interested in the intersection of art, technology, and social good. 
 
-- 🔭 I’m currently building and desiging websites at Web Development at Berkeley
-- 💻 My favorite stack right now is MERN
-- 🌱 I’m currently learning about mobile development with React Native
+- 🔭 I’m currently building websites at Web Development at Berkeley
+- 🌱 I’m currently reading about about UI Design
 - 💬 Ask me about the struggle of modern tech startups
 - 📫 How to reach me: 23henrychiu@gmail.com
 - 😄 Pronouns: He/Him/his
