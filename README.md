@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Henry. Currently studying Computer Science at Berkeley. I'm passionate about improving the lives of others through design and am constantly looking to learn new things everyday.
+I'm Henry. Currently studying Computer Science at Berkeley. I'm passionate about improving the lives of others through design and code and am constantly looking to learn new things everyday.
 
 - 🔭 I’m currently building websites at Web Development at Berkeley
 - 🌱 I’m constantly learning about UI Design
