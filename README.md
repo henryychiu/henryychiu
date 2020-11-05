@@ -6,7 +6,7 @@ I'm Henry. Currently studying Computer Science at Berkeley. I'm passionate about
 - 🌱 I’m constantly learning about UI Design
 - 💬 Ask me about the intersection of art, technology, and social good
 - 📫 How to reach me: 23henrychiu@gmail.com
-- 😄 Pronouns: He/Him/his
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I run for fun! Hit me up if you want to go on a run together
 
 **Links**
