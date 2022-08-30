@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I'm Henry. Currently studying Computer Science at Berkeley. I'm passionate about improving the lives of others through design and code and am constantly looking to learn new things everyday.
+My name is Henry Chiu and I'm an 3rd year studying Computer Science at UC Berkeley. I specialize in Web Development, working as a software engineer at various companies like Tesla and Verkada.
 
-- 🔭 I’m currently building websites and mobile apps
-- 🌱 I’m constantly learning about UI/UX Design
-- 💬 Ask me about the intersection of art, technology, and social good
+My goal is simple: to surround myself with smart, energetic, creative people who challenge me and make me better at what I do.
+
+- 🔭 I’m currently building websites
+- 🌱 I’m constantly learning about all things Web
 - 📫 How to reach me: henrychiu@berkeley.edu
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I run for fun! Hit me up if you want to go on a run together
+- ⚡ Fun fact: I love rock climbing and the outdoors!
 
 **Links**
-- [Portfolio Website](http://henrychiu.me/) - My creative work!
+- [Portfolio Website](http://henryychiu.com/) - My coding work!
 - [LinkedIn](https://www.linkedin.com/in/henryychiu/) - Learn more about me!
