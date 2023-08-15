@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Henry Chiu and I'm an 3rd year studying Computer Science at UC Berkeley. I specialize in Web Development, working as a software engineer at various companies like Tesla and Verkada.
-
-My goal is simple: to surround myself with smart, energetic, creative people who challenge me and make me better at what I do.
+My name is Henry Chiu and I'm an 4th year studying Computer Science at UC Berkeley. I'm passionate about full-stack development, and I've worked at copmanies such as Plaid, Verkada, and Tesla.
 
 - 🔭 I’m currently building websites
 - 🌱 I’m constantly learning about all things Web
